@@ -1,6 +1,6 @@
-# Paper Code Repository
+# Follow the Leader? Digitally Native Activism and the Business Cycle of Mobilization
 
-This repository contains all the files and resources related to the research on ethical advertising and the Sleeping Giants revisions. Below is an overview of the directory structure and the purpose of each folder and file.
+This repository contains all the files and resources related to the paper **"Follow the Leader? *Message Framing and Mobilization of Online Armies in the Social Media Age*"**. Below is an overview of the directory structure and the purpose of each folder and file.
 
 ## Directory Structure
 
