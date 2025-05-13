@@ -1,6 +1,8 @@
 # Follow the Leader? Digitally Native Activism and the Business Cycle of Mobilization
 
-This repository contains all the files and resources related to the paper **"Follow the Leader? *Message Framing and Mobilization of Online Armies in the Social Media Age*"**. Below is an overview of the directory structure and the purpose of each folder and file.
+This repository contains supplemental files and resources related to the paper **"Follow the Leader? *Message Framing and Mobilization of Online Armies in the Social Media Age*"**. The resources contained here are included for completeness. All main findings are presented and discussed in the manuscript.
+
+Below is an overview of the directory structure and the purpose of each folder and file.
 
 ## Directory Structure
 
