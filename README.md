@@ -7,7 +7,7 @@ Below is an overview of the directory structure and the purpose of each folder a
 ## Directory Structure
 
 ### Dynamic Topic Model Plots
-This folder contains visualizations of dynamic topic models categorized by different frames:
+This folder contains visualizations of dynamic topic models categorized by different frames. These plots are categorized by topic, with a legend that provides the topic representations. These topic representations confirm our strategy for categorizing content into framing types and shed light on the themes within each core framing type:
 - `diagnostic_tsot.png`: Diagnostic frame time series of topics.
 - `motivational_tsot.png`: Motivational frame time series of topics.
 - `non_framing_tsot.png`: Non-framing frame time series of topics.
